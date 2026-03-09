@@ -1,4 +1,8 @@
-# Aperture Documentation
+# Aperture — Documentation
+
+> ⚠️ **Work in progress.** System architecture is being finalized. Details below are draft and subject to change.
+
+---
 
 ## Quick Start
 
@@ -194,3 +198,13 @@ pytest tests/ -v
 - [ ] Multi-language query support improvements
 - [ ] Bulk query import
 - [ ] Competitive share-of-voice charts
+- [ ] Core audit engine
+- [ ] BYOK multi-provider support
+- [ ] Brand mention detection
+- [ ] Web dashboard
+- [ ] Google AI Overviews integration
+- [ ] Citation source extraction
+- [ ] Scheduled audits with alerting
+- [ ] REST API for external integrations
+- [ ] Multi-tenant support
+- [ ] Webhook notifications

@@ -4,7 +4,7 @@
 
 Track how your brand appears (or doesn't) across ChatGPT, Perplexity, Google AI Overviews, and other LLM-powered search engines. Self-hosted. Bring your own keys.
 
-Free alternative to [Profound](https://profound.com) and [Peec AI](https://peec.ai).
+Free alternative to [Profound](https://tryprofound.com) and [Peec AI](https://peec.ai).
 
 ---
 
@@ -44,32 +44,12 @@ Aperture doesn't ship with API keys. Bring your own:
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/anyin-ai/aperture
-cd aperture
-docker compose up -d
-```
-
-Then open **http://localhost:3000**, go to **Settings**, and add your API keys.
-
-See [DOCS.md](DOCS.md) for the full quick start guide, architecture, configuration, and roadmap.
-
----
-
 ## Use Cases
 
 - **Brands** — Monitor whether AI recommends you or your competitors
 - **Agencies** — Run client audits at scale without per-seat SaaS costs
 - **SEO/AEO teams** — Track the impact of content optimization on AI visibility
 - **Researchers** — Study LLM recommendation patterns across markets and languages
-
----
-
-## Contributing
-
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
@@ -96,3 +76,26 @@ How Aperture compares to commercial AI visibility tools:
 
 **Why self-host?** Your audit queries, brand strategy, and competitive intelligence never leave your infrastructure. No vendor lock-in, no usage caps, no surprise pricing changes.
 
+---
+
+## Documentation
+
+See [DOCS.md](DOCS.md) for quick start guide, architecture, configuration, and roadmap.
+
+---
+
+## Contributing
+
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## License
+
+[MIT](LICENSE)
+
+---
+
+## Acknowledgements
+
+Aperture is built by [Anyin](https://anyin.ai) (安引), an AEO agency helping brands become visible in AI-powered search.
